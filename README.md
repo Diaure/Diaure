@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Aurélie GABU ! 👋<br>
 
-**From marketing to data, I feel like a detective on a mission to uncover the insights that truly make a difference.**
+**From marketing to data, I feel like a detective on a mission to uncover the insights that truly make a difference.**<br>
 
 After six years as a Study Leader in the consumer goods, pharmaceutical, and sports industries, and driven by a passion for strategic insights and data-driven decisions, 
 I transitioned into data analytics to bridge the gap between market trends and actionable business 
@@ -8,10 +8,10 @@ strategies.
 Today, I'm exploring databases, conducting exploratory analysis, and leveraging machine learning to transform raw data into actionable insights.
 
 
-### 🚀 What I Do:
-**Data Analysis & Visualization**: ***Creating*** compelling dashboards and reports to inform strategic decisions.<br>
-**Data Exploration & Insights Discovery**: ***Uncovering*** patterns and trends that drive strategic actions.<br>
-**Business Insights**: ***Translating*** complex data into clear, actionable business strategies.<br>
+### 🚀 What I Do:<br>
+* **Data Analysis & Visualization**: ***Creating*** compelling dashboards and reports to inform strategic decisions.<br>
+* **Data Exploration & Insights Discovery**: ***Uncovering*** patterns and trends that drive strategic actions.<br>
+* **Business Insights**: ***Translating*** complex data into clear, actionable business strategies.<br>
 
 
 ### 💡 Past Experience:<br>
@@ -26,19 +26,18 @@ I gained expertise in understanding customer needs and transforming them into st
 I've worked on several projects you can find [**`here`**](https://github.com/Diaure/Projects) in my portfolio.<br>
 The practice on those projects helped develop and perform my competencies:<br>
 
-  **🛠️ Competencies** 
-      - **Langages** : Python (Pandas, NumPy, Scikit-learn), SQL  <br>
-      - **Data Viz** : Power BI, Matplotlib, Seaborn  <br>
-      - **Tools & Technologies** : Streamlit, Git/GitHub, Web Scraping  <br>
-      - **Data treatment** : Nettoyage, manipulation et analyse<br>
-      - **Machine Learning** : Modélisation prédictive, régression, classification avec Scikit-learn<br>
+ * **🛠️ Competencies** <br>
+   * **Langages** : Python (Pandas, NumPy, Scikit-learn), SQL  <br>
+   * **Data Viz** : Power BI, Matplotlib, Seaborn  <br>
+   * **Tools & Technologies** : Streamlit, Git/GitHub, Web Scraping  <br>
+   * **Data treatment** : Nettoyage, manipulation et analyse<br>
+   * **Machine Learning** : Modélisation prédictive, régression, classification avec Scikit-learn<br>
 
 ### 🎨 When I'm Not Working<br>
 I'm either:<br>
-
-* Reading 📚<br>
-* Staying active with sports 🏃‍♀️ (with a lot of cheat meals of course)<br>
-* Crafting creative activities for my son 🎨<br>
+ * Reading 📚<br>
+ * Staying active with sports 🏃‍♀️ (with a lot of cheat meals of course)<br>
+ * Crafting creative activities for my son 🎨<br>
 
 ### 🔍 My Approach<br>
 I am naturally observant and patient, taking time to make thoughtful strategic decisions that make sense.<br>
