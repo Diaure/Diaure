@@ -9,16 +9,15 @@ Today, I'm exploring databases, conducting exploratory analysis, and leveraging 
 
 
 ### 🚀 What I Do:<br>
-* **Data Analysis & Visualization**: ***Creating*** compelling dashboards and reports to inform strategic decisions.<br>
-* **Data Exploration & Insights Discovery**: ***Uncovering*** patterns and trends that drive strategic actions.<br>
-* **Business Insights**: ***Translating*** complex data into clear, actionable business strategies.<br>
-
+  * **Data Analysis & Visualization**: ***Creating*** compelling dashboards and reports to inform strategic decisions.<br>
+  * **Data Exploration & Insights Discovery**: ***Uncovering*** patterns and trends that drive strategic actions.<br>
+  * **Business Insights**: ***Translating*** complex data into clear, actionable business strategies.<br>
 
 ### 💡 Past Experience:<br>
 As a Study Leader, I led different projects on:<br>
-**Consumer behavior analysis**<br>
-**Customer segmentation**<br>
-**Customer experience enhancement**<br>
+  * **Consumer behavior analysis**<br>
+  * **Customer segmentation**<br>
+  * **Customer experience enhancement**<br>
 I gained expertise in understanding customer needs and transforming them into strategic opportunities.<br>
 
 ### 📌 Projects  <br>
@@ -50,9 +49,9 @@ I thrive in team environments and am known for my ability to simplify complex co
 💡 I love exploring new methods and sharing my insights!<br>
 
 ### 📫 My contacts <br>
-📍 **LinkedIn** : [**Aurélie GABU**](https://www.linkedin.com/in/aurelie-gabu/)<br>
-📧 **E-mail** : [**aurelie.gabu@gmail.com**](mailto:aurelie.gabu@gmail.com)<br>
-🌐 **Portfolio** : [**My projects**](https://github.com/Diaure/Projects)<br>
+  * 📍 **LinkedIn** : [**Aurélie GABU**](https://www.linkedin.com/in/aurelie-gabu/)<br>
+  * 📧 **E-mail** : [**aurelie.gabu@gmail.com**](mailto:aurelie.gabu@gmail.com)<br>
+  * 🌐 **Portfolio** : [**My projects**](https://github.com/Diaure/Projects)<br>
 
 ***Looking forward to connecting and exploring opportunities to turn data into impactful business decisions!***
 
