@@ -1,48 +1,46 @@
-# 👋 Hello, I'm Aurélie GABU ! 👋<br>
+# Aurélie GABU | Data Analyst <br>
 
-***From marketing to data analytics, I decode numbers to craft strategic business decisions.***<br>
+***Turning data into actionable business insights through analysis, visualization and machine learning.***<br>
 
-After 6 years as a Study Leader in consumer goods, pharmaceuticals, and sports, I transitioned into Data Analytics to bridge the gap between market insights and data-driven strategies.
+With five years of experience in quantitative research and marketing studies, I transitioned into Data Analytics to combine business understanding with technical data skills.
 
-**My mission ?** Exploring data, revealing key patterns, and transforming them into strategic business actions.
+I work across the data analysis process, from data extraction and preparation to exploratory analysis, visualization and predictive modeling.
+
+## Areas of Expertise
+
+* **Data Analysis**: Exploratory analysis, statistical analysis, data quality and business insights.
+
+* **Data Visualization**: Dashboard development, KPI monitoring and reporting.
+
+* **Machine Learning**: Classification, regression, predictive modeling and model evaluation.
+
+* **LLM & NLP**: RAG systems, LLM evaluation and text analysis.
 
 
-### What I Do:<br>
+### Technical skills
 
-  * **Data Analysis & Visualization**: ***Creating*** insightful dashboards and reports.<br>
-  * **Data Exploration & Insights Discovery**: ***Uncovering*** trends and key business drivers.<br>
-  * **Business Strategy**: ***Translating*** raw data into actionable decisions.<br>
- 🔹 **Langages** : Python (Pandas, NumPy, Scikit-learn), SQL<br>
- 🔹 **Data Viz** : Power BI, Matplotlib, Seaborn<br>
- 🔹 **Tools & Technologies** : Streamlit, Git/GitHub, Web Scraping<br>
- 🔹 **Data treatment** : Nettoyage, manipulation et analyse<br>
- 🔹 **Machine Learning** : Modélisation prédictive, régression, classification avec Scikit-learn<br>
-
-### Past Experience:<br>
-
-As a Study Leader, I led different projects on:<br>
-
-  * **Consumer behavior analysis** → Understanding customer needs & expectations.<br>
-  * **Customer segmentation** → Targeting the right audience for optimal strategy.<br>
-  * **Customer experience enhancement** → Driving loyalty through data insights.<br>
-  Key strength: Turning complex data into strategic opportunities.<br>
+| Category	| Tools & Technologies	|
+|-----------|-------------------|
+| Programming | Python, SQL (Oracle, PostreSQL, SAS), Excel (Power query) |
+| **Data Analysis** | Pandas, NumPy, Scikit-learn |
+| **Business Intelligence** | Power BI, Qlik Sense, Streamlit |
+| **Machine Learning** | Modélisation prédictive, SHAP, MLflow |
+| **LLM & NLP** | RAG, RAGAS, Mistral, FAISS |
+| Other tools | Git, GitHub, Latex |
 
 ### My Projects  <br>
 
-Find my portfolio [**`here`**](https://github.com/Diaure/Projects) in my portfolio.<br>
+Explore my data projects [**`portfolio`**](https://github.com/Diaure/Projects).
 
-### When I'm Not Working<br>
+### Background & Approach
 
- * 📚 Reading : Always learning new things!<br>
- * 🏃‍♀️ Staying active with sports (with well-deserved cheat meals 😋)<br>
- * 🎨 Crafting with my son : Creativity is everywhere!<br>
+Before transitioning into Data Analytics, I worked in quantitative market research across consumer goods, pharmaceutical and sports sectors.
 
-### Learning & Continuous Improvement<br>
+This experience strengthened my ability to understand business needs, manage data-driven studies and translate complex findings into clear recommendations.
 
-💡 Currently diving deeper into Predictive Modeling & Cloud.<br>
-🚀 Passionate about exploring new technologies & data science trends.<br>
+I aim to combine this business perspective with technical skills to deliver relevant and actionable data insights.
 
-### Let's Connect! <br>
+### Let's Connect!
 
   * **LinkedIn** : [**Aurélie GABU**](https://www.linkedin.com/in/aurelie-gabu/)<br>
   * **E-mail** : [**aurelie.gabu@gmail.com**](mailto:aurelie.gabu@gmail.com)<br>
