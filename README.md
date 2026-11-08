@@ -22,13 +22,13 @@ I work across the data analysis process, from data extraction and preparation to
 | Category	| Tools & Technologies	|
 |-----------|-------------------|
 | Programming | Python, SQL (Oracle, PostreSQL, SAS), Excel (Power query) |
-| **Data Analysis** | Pandas, NumPy, Scikit-learn |
-| **Business Intelligence** | Power BI, Qlik Sense, Streamlit |
-| **Machine Learning** | Modélisation prédictive, SHAP, MLflow |
-| **LLM & NLP** | RAG, RAGAS, Mistral, FAISS |
+| Data Analysis | Pandas, NumPy, Scikit-learn |
+| Business Intelligence | Power BI, Qlik Sense, Streamlit |
+| Machine Learning | Modélisation prédictive, SHAP, MLflow |
+| LLM & NLP | RAG, RAGAS, Mistral, FAISS |
 | Other tools | Git, GitHub, Latex |
 
-### My Projects  <br>
+### My Projects
 
 Explore my data projects [**`portfolio`**](https://github.com/Diaure/Projects).
 
